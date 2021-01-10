@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/shogi-training/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/shogi-training/static/js/main.67100142.chunk.js",
-    "main.js.map": "/shogi-training/static/js/main.67100142.chunk.js.map",
+    "main.css": "/shogi-training/static/css/main.fade71da.chunk.css",
+    "main.js": "/shogi-training/static/js/main.7407f55e.chunk.js",
+    "main.js.map": "/shogi-training/static/js/main.7407f55e.chunk.js.map",
     "runtime-main.js": "/shogi-training/static/js/runtime-main.60876595.js",
     "runtime-main.js.map": "/shogi-training/static/js/runtime-main.60876595.js.map",
     "static/js/2.20845d8b.chunk.js": "/shogi-training/static/js/2.20845d8b.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.0c59daa7.chunk.js": "/shogi-training/static/js/3.0c59daa7.chunk.js",
     "static/js/3.0c59daa7.chunk.js.map": "/shogi-training/static/js/3.0c59daa7.chunk.js.map",
     "index.html": "/shogi-training/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/shogi-training/static/css/main.6dea0f05.chunk.css.map",
+    "static/css/main.fade71da.chunk.css.map": "/shogi-training/static/css/main.fade71da.chunk.css.map",
     "static/js/2.20845d8b.chunk.js.LICENSE.txt": "/shogi-training/static/js/2.20845d8b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.60876595.js",
     "static/js/2.20845d8b.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.67100142.chunk.js"
+    "static/css/main.fade71da.chunk.css",
+    "static/js/main.7407f55e.chunk.js"
   ]
 }
