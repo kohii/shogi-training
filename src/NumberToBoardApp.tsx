@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import ShogiBoard from './ShogiBoard';
 import { css } from '@emotion/react'
 
-function App() {
+function NumberToBoardApp() {
   type CoordinateType = {
     file: number | null,
     rank: number | null
@@ -80,4 +80,4 @@ function App() {
   );
 }
 
-export default App;
+export default NumberToBoardApp;

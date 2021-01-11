@@ -8,7 +8,7 @@ type Props = {
 		rank: number,  // 段
 		color: string
 	} | null,
-	onCellClick: ((file: number, rank: number) => void)
+	onCellClick?: ((file: number, rank: number) => void)
 }
 
 const cellWidth = 40
@@ -65,7 +65,7 @@ const ShogiBoard: React.FC<Props> = ({ highlight, onCellClick }) => (
                   border: solid 1px #000;
                   transition: background-color 0.2s linear;
                 `}
-								onClick={(ev) => onCellClick(translateXCoordinate(x), translateYCoordinate(y))}
+								onClick={(ev) => { if (onCellClick) { onCellClick(translateXCoordinate(x), translateYCoordinate(y)) } }}
 							></td>
 						})}
 					</tr>
